@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-azuretools.vscode-docker",
+        "eamodio.gitlens",
+        "ms-vscode.vscode-typescript-next",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "christian-kohler.path-intellisense",
+        "naumovs.color-highlight",
+        "zignd.html-css-class-completion",
+        "pkief.material-icon-theme",
+        "visualstudioexptteam.vscodeintellicode"
+    ]
+}
